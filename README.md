@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Tianyi 👋
 
-<!--
-**buonotz/buonotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student in Management & Digital Technology  
+Technical University of Munich
+Bachelor of Science in Business Administration, concentrating Accounting, Minor in Sustainable Energy
+Boston University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 M.Sc. at TUM
+- 🤖 Interested in AI Applications
+- 💻 Learning Full-Stack Development
+- 🌍 Based in Germany
+
+---
+
+## Current Projects
+
+- 🚀 AI Research Job Assistant
+- 🎬 Bilingual Subtitle Extension
+- 
+
+---
+
+## Tech Stack
+
+Python
+
+FastAPI
+
+Next.js
+
+PostgreSQL
+
+Docker
+
+Git
+
+---
+
+## Contact
+
+LinkedIn https://www.linkedin.com/in/tianyi-zhang-buonotz/
+
+Email buonotz@gmail.com
