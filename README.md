@@ -2,7 +2,7 @@
 
 Master's Student in Management & Digital Technology  
 Technical University of Munich
-Bachelor of Science in Business Administration, concentrating Accounting, Minor in Sustainable Energy
+Bachelor in Business Administration, concentrating Accounting, Minor in Sustainable Energy
 Boston University
 
 ---
@@ -10,6 +10,7 @@ Boston University
 ## About Me
 
 - 🎓 M.Sc. at TUM
+- 🎓 B.S. at Boston University, USA
 - 🤖 Interested in AI Applications
 - 💻 Learning Full-Stack Development
 - 🌍 Based in Germany
@@ -20,13 +21,14 @@ Boston University
 
 - 🚀 AI Research Job Assistant
 - 🎬 Bilingual Subtitle Extension
-- 
 
 ---
 
 ## Tech Stack
 
 Python
+
+TypeScript
 
 FastAPI
 
