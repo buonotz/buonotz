@@ -20,8 +20,7 @@ Boston University
 ## Current Projects
 
 - 🚀 AI Research Job Assistant
-- 🎬 Bilingual Subtitle Extension
-
+- 🎬 Bilingual Subtitle Extension ([Install Streaming Bilingual Subtitles BETA](https://chromewebstore.google.com/detail/streaming-bilingual-subti/nmfpfghjmjekknbbilcpiioohkdjimfo))
 ---
 
 ## Tech Stack
