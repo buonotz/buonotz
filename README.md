@@ -19,6 +19,7 @@ Boston University
 
 ## Current Projects
 
+- 🍅 [Quiet Hours](https://rosebud.ai/play/quiet-hours-10) — A Pomodoro focus game where a parallel world and its stories unfold while you concentrate.
 - 🚀 AI Research Job Assistant
 - 🎬 Bilingual Subtitle Extension ([Install Streaming Bilingual Subtitles BETA](https://chromewebstore.google.com/detail/streaming-bilingual-subti/nmfpfghjmjekknbbilcpiioohkdjimfo))
 ---
